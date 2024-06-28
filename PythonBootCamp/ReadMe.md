@@ -2,13 +2,15 @@
 <img src="https://raw.githubusercontent.com/hpngithub/PythonBCProject/main/PythonBootCamp/ReadMeImage/Pierian_Data_Logo.png" width="500x"/>
 </p>
 
-# UDEMY : The Complete Python Bootcamp From Zero to Hero in Python. 
+# The Complete Python Bootcamp From Zero to Hero in Python. 
 
 #### Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games
 
 *_Created by Jose Portilla, Copyright(©) by Pierian Data Inc_* 
 
- ```Get it now for 95% off with the Udemy Main Course link: https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB```
+> <img src="https://raw.githubusercontent.com/hpngithub/PythonBCProject/main/PythonBootCamp/ReadMeImage/logo-udemy.png" width="100x"/>
+>
+> ```Get it now for 95% off with the Udemy Main Course link: https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB```
 
 <br>
 
