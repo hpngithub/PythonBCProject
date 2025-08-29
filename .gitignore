@@ -1,0 +1,7 @@
+# List of File & Folder to ignore #
+###################################
+
+#Folder List#
+#############
+.ipynb_checkpoints/
+
