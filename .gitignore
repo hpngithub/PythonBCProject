@@ -5,3 +5,7 @@
 #############
 .ipynb_checkpoints/
 
+#File List#
+#############
+.DS_Store
+
